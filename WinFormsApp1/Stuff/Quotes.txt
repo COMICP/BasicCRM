@@ -1,0 +1,4 @@
+Date: 05 May 2023, Price: $3838, Name: Joe Biden
+Date: 05 May 2023, Price: $5405, Name: Donald Trump
+Date: 05 May 2023, Price: $250, Name: Jaden
+Date: 05 May 2023, Price: $820, Name: Dan
