@@ -12,10 +12,10 @@ using System.Windows.Forms;
 
 namespace WinFormsApp1
 {
-    public partial class Search : Form
+    public partial class SearchQuotes : Form
     {
         List<string> list = new List<string>();
-        public Search()
+        public SearchQuotes()
         {
             InitializeComponent();
             CreateSearchList();

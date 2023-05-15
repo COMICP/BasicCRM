@@ -34,7 +34,7 @@ namespace WinFormsApp1
 
         private void SearchButton_Click(object sender, EventArgs e)
         {
-            Search search = new Search();
+            SearchQuotes search = new SearchQuotes();
             search.Visible = true;
             Visible = false;
         }
