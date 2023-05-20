@@ -34,9 +34,10 @@ namespace WinFormsApp1
             MainUser mainUser = new MainUser();
             string output = "";
 
-            List<string> disList = new List<string>();
+            List<string> disList = mainUser.GetQuotes();
 
-            disList = mainUser.GetQuotes();
+
+
 
             foreach (string dis in disList)
             {

@@ -39,6 +39,7 @@ namespace WinFormsApp1
         {
             MainUser mainUser = new MainUser();
             list = mainUser.GetQuotes();
+            
         }
 
         private void Output_Click(object sender, EventArgs e)
